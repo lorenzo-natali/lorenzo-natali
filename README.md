@@ -1,6 +1,6 @@
 # Lorenzo Natali
 
-![banner](INSERISCI_QUI_IL_LINK_DELLA_TUA_GIF)
+![banner](banner.gif)
 
 Internal Audit | IT Risk | AI Governance  
 DORA • IFRS 9 • Technology-driven audit  
