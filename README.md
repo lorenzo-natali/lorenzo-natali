@@ -2,8 +2,8 @@
 
 ![banner](banner.gif)
 
-Internal Audit | IT Risk | AI Governance  
-DORA • IFRS 9 • Technology-driven audit  
+<sub>Internal Audit | Technology Risk | AI Governance  
+Building AI-driven audit systems</sub>
 
 ---
 
