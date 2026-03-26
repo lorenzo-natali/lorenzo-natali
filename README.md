@@ -3,14 +3,15 @@
 ![banner](banner.gif)
 
 <sub>Internal Audit | Technology Risk | AI Governance  
-Building AI-driven audit systems</sub>
+Designing systems to transform audit from control function to analytical engine</sub>
 
 ---
 
 ## Profile
 
-Internal auditor with a focus on technology risk, operational resilience and data-driven audit processes.  
-Experience in credit risk analysis, IFRS 9 provisioning and regulatory frameworks within an international banking environment.
+Internal auditor focused on the intersection between risk, systems and data.
+
+My work explores how audit can evolve from retrospective control to forward-looking analysis, integrating technology, data flows and structured methodologies.
 
 ---
 
