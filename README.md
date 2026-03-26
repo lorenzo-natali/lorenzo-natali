@@ -1,16 +1,37 @@
-## Hi there 👋
+# Lorenzo Natali
 
-<!--
-**lorenzo-natali/lorenzo-natali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](INSERISCI_QUI_IL_LINK_DELLA_TUA_GIF)
 
-Here are some ideas to get you started:
+Internal Audit | IT Risk | AI Governance  
+DORA • IFRS 9 • Technology-driven audit  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Profile
+
+Internal auditor with a focus on technology risk, operational resilience and data-driven audit processes.  
+Experience in credit risk analysis, IFRS 9 provisioning and regulatory frameworks within an international banking environment.
+
+---
+
+## Focus Areas
+
+- IT Audit & Information Systems Governance  
+- Technology Risk & Digital Operational Resilience (DORA)  
+- AI Governance & emerging regulation  
+- Financial Risk & IFRS 9  
+
+---
+
+## Current Project
+
+**AI Audit Workflow**
+
+Designing a structured audit system integrating local LLM agents, data extraction and workflow automation to support audit analysis and documentation.
+
+---
+
+## Tech
+
+Python • Data Analysis • Automation  
+Local LLM agents • AI-assisted workflows  
