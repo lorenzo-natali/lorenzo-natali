@@ -23,7 +23,7 @@ My work explores how audit can evolve from retrospective control to forward-look
 - AI Governance & emerging regulation  
 - Financial Risk & IFRS 9  
 
-These areas converge into a single objective: transforming audit into a data-driven, system-oriented function.
+These domains converge into a single direction: structuring audit as a data-driven, system-oriented discipline.
 
 ---
 
@@ -33,7 +33,20 @@ These areas converge into a single objective: transforming audit into a data-dri
 
 Designing a structured audit system integrating local LLM agents, data extraction and workflow automation.
 
-Objective: transform audit workflows into reproducible, scalable analytical processes.
+Objective: build reproducible and scalable audit processes, reducing reliance on manual analysis.
+
+---
+
+## Research & Development
+
+Exploring the integration of quantitative risk models and system-based audit approaches:
+
+- Credit risk modeling (PD, LGD, ECL – IFRS 9)
+- Portfolio risk analysis and segmentation
+- System log analysis and anomaly detection
+- Stress testing and scenario simulation
+
+Objective: connect financial risk modeling with technology-enabled audit frameworks.
 
 ---
 
